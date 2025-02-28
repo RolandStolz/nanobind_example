@@ -1,0 +1,12 @@
+[project]
+name = "mwe_py"
+version = "0.0.1"
+description = "Minimal working nanobind example"
+requires-python = ">=3.8"
+
+[build-system]
+requires = [
+    "scikit-build-core >= 0.10",
+    "nanobind>=2.0",
+]
+build-backend = "scikit_build_core.build"

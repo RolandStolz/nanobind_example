@@ -1,0 +1,5 @@
+.venv
+.vscode
+.cache
+build
+compile_commands.json
